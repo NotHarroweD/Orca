@@ -82,13 +82,9 @@ First full draft. Start with the [guide index](guide/README.md), or jump to the 
 Questions, results, and war stories are welcome in the [AI Game Dev Discord](https://discord.gg/GGszfGZg8a).
 If you try Orca on a real project, we'd love to hear how it went.
 
-## Contributing
-
-Issues and suggestions are welcome.
-
 ## Contributors
 
-Thank you to everyone who has tested Orca and shared feedback. Your input has directly shaped the guide.
+Thank you to everyone who has tested Orca and shared feedback. Your input directly improves the benefit this resource provides to the community.
 
 - **ShinyStarSam**: First Tester/Feedback contributor.
 
