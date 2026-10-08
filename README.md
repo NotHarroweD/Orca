@@ -86,6 +86,14 @@ If you try Orca on a real project, we'd love to hear how it went.
 
 Issues and suggestions are welcome.
 
+## Contributors
+
+Thank you to everyone who has tested Orca and shared feedback. Your input has directly shaped the guide.
+
+- **ShinyStarSam**: First Tester/Feedback contributor.
+
+Want to be listed? Try Orca on a real project and share what worked and what didn't, in the [Discord](https://discord.gg/GGszfGZg8a) or as a GitHub issue.
+
 ## License
 
 TBD
